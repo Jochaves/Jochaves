@@ -1,6 +1,13 @@
 ## ✔ Quem sou
 Olá, Meu nome é João tenho 21 anos atualmente estou cursando a graduação em Analise e desenvolvimento de sistemas [Mackenzie](https://www.mackenzie.br/graduacao/ead/tecnologia-em-analise-e-desenvolvimento-de-sistemas/matriz-curricular). Criador de vários repositórios com projetos legais e um pouco aleatórios como um bom curioso.
 
+## 💬 O que você encontra no meu Github
+
+- Projetos de Front-End e Back-End; <br>
+- Projetos de raciocínio lógico; <br>
+- Meus trabalhos da faculdade; <br>
+- Alguns códigos aleatórios.
+
 ## 🚀 Tecnologias mais utilizadas
  <a href="https://github.com/Jochaves/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaizacn&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
