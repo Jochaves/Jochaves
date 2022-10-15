@@ -5,7 +5,7 @@ Olá, Meu nome é João tenho 21 anos atualmente estou cursando a graduação em
 
 - Projetos de Front-End e Back-End; <br>
 - Projetos de raciocínio lógico; <br>
-- Meus trabalhos da faculdade; <br>
+- Meus trabalhos da faculdade e técnico; <br>
 - Alguns códigos aleatórios.
 
 ## 🚀 Tecnologias mais utilizadas
