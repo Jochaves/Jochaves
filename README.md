@@ -10,7 +10,7 @@ Olá, Meu nome é João tenho 21 anos atualmente estou cursando a graduação em
 
 ## 🚀 Tecnologias mais utilizadas
  <a href="https://github.com/Jochaves/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaizacn&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jochaves&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jochaves&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
