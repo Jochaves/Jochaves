@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou João Chaves</h1>
-Olá, meu nome é João tenho 21 anos atualmente estou cursando a graduação em Análise e desenvolvimento de sistemas no [Mackenzie](https://www.mackenzie.br/graduacao/ead/tecnologia-em-analise-e-desenvolvimento-de-sistemas/matriz-curricular). Criador de vários repositórios com projetos legais e um pouco aleatórios como um bom curioso.
+<h1 align="center">Olá 👋, me chamo João Chaves</h1>
+Tenho 21 anos atualmente estou no primeiro semestre da graduação em Análise e desenvolvimento de sistemas formado Técnico em Informática. Criador de vários repositórios com projetos legais e um pouco aleatórios como um bom curioso. Interessado em desenvolver cada vez mais minhas competências em Analise de dados.
 
 ## 💬 O que você encontra no meu Github
 
