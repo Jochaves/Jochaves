@@ -1,4 +1,6 @@
-<h1 align="center">Olá 👋, me chamo João Chaves</h1>
+
+## Olá 👋, me chamo João Chaves
+
 Tenho 21 anos atualmente estou no primeiro semestre da graduação em Análise e desenvolvimento de sistemas formado Técnico em Informática. Criador de vários repositórios com projetos legais e um pouco aleatórios como um bom curioso. Interessado em desenvolver cada vez mais minhas competências em Analise de dados e IA.
 
 ## 💬 O que você encontra no meu Github
