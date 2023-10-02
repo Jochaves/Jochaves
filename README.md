@@ -1,13 +1,13 @@
 
 ## Olá 👋, me chamo João Chaves
 
-Tenho 21 anos atualmente estou no segundo semestre da graduação em Análise e desenvolvimento de sistemas, formado Técnico em Informática. Criador de vários repositórios com projetos legais e um pouco aleatórios como um bom curioso. Interessado em desenvolver cada vez mais minhas competências em  Engenharia de Dados.
+Tenho 22 anos atualmente estou no Terceiro semestre da graduação em Análise e desenvolvimento de sistemas, formado Técnico em Informática. Criador de vários repositórios com projetos legais e um pouco aleatórios, como um bom curioso. Interessado em desenvolver cada vez mais minhas competências em  Engenharia de Dados.
 
 ## 💬 O que você encontra no meu Github
 
 - Projetos de Front-End e Back-End; <br>
 - Projetos de raciocínio lógico; <br>
-- Meus trabalhos da Faculdade e Técnico em Informática; <br>
+- Meus trabalhos da Faculdade e Técnico; <br>
 - Alguns códigos aleatórios.
 
 ## 🚀 Tecnologias mais utilizadas
