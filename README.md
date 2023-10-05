@@ -6,6 +6,7 @@ Tenho 22 anos atualmente estou no Terceiro semestre da graduação em Análise e
 ## 💬 O que você encontra no meu Github
 
 - Projetos de Front-End e Back-End; <br>
+- Projetos direcionados a Dados; <br>
 - Projetos de raciocínio lógico; <br>
 - Meus trabalhos da Faculdade e Técnico; <br>
 - Alguns códigos aleatórios.
