@@ -21,7 +21,7 @@ Tenho 22 anos atualmente estou no Quarto semestre da graduação em Análise e d
 ## 🔎 Quer saber mais sobre meu trabalho 
 Acesse meu [portfólio](https://sites.google.com/view/portflio-joao-chaves/in%C3%ADcio)
 <div> 
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-chaves-09/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/joao-ch4ves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaogbsantana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
