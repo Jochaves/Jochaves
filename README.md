@@ -1,9 +1,9 @@
 
-## Quem sou 
+## 👋🏽 Quem sou 
 
 Meu nome e João Tenho 23 anos atualmente estou cursando a graduação em Análise e desenvolvimento de sistemas na , formado Técnico em Informática. Criador de vários repositórios com projetos legais e um pouco aleatórios, como um bom curioso. Interessado em desenvolver cada vez mais minhas competências na área de Dados.
 
-## 💬 O que você encontra no meu Github
+## 💻 O que você encontra no meu Github
 
 - Projetos de Front-End e Back-End; <br>
 - Principalmente projetos direcionados a Dados; <br>
