@@ -3,13 +3,15 @@
 Bem-vindo ao meu perfil! Sou apaixonado por Mineração e Extração de Dados, com experiência em SQL, Python, Power BI e Machine Learning. Atuo na criação de soluções baseadas em dados para apoiar a tomada de decisão. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, e sou formado como Técnico em Informática pelo Senac São Paulo.
 
 
-## 💻 O que você encontra no meu Github
+## 📚 O que você encontra no meu Github
 
-- Projetos de Front-End e Back-End; <br>
-- Principalmente projetos direcionados a Dados; <br>
-- Projetos de raciocínio lógico; <br>
-- Meus trabalhos da Faculdade e Técnico; <br>
-- Alguns códigos aleatórios.
+- 📊 Projetos de Análise de Dados e BI com SQL, Power BI e Python;
+- 🏢 Modelos preditivos com Machine Learning (Scikit-learn, TensorFlow);
+- 💻 ETL e manipulação de dados com Pandas e SQL;
+- 🎓 Projetos da faculdade e cursos;
+- 🛠️ Códigos práticos e automação de processos.
+
+
 
 ## 🚀 Tecnologias mais utilizadas
  <a href="https://github.com/Jochaves/">
