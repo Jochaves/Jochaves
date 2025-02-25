@@ -1,6 +1,6 @@
 
 ## 👨‍💻 Analista de Dados | Business Intelligence | SQL | Python
-Bem-vindo ao meu perfil! Sou apaixonado por Mineração e Extração de Dados, com experiência em SQL, Python, Power BI e Machine Learning. Atuo na criação de soluções baseadas em dados para apoiar a tomada de decisão.Atualmente, curso Análise e Desenvolvimento de Sistemas na Mackenzie, e sou formado como Técnico em Informática pelo Senac São Paulo.
+Bem-vindo ao meu perfil! Sou apaixonado por Mineração e Extração de Dados, com experiência em SQL, Python, Power BI e Machine Learning. Atuo na criação de soluções baseadas em dados para apoiar a tomada de decisão. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, e sou formado como Técnico em Informática pelo Senac São Paulo.
 
 
 ## 💻 O que você encontra no meu Github
