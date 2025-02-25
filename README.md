@@ -1,7 +1,7 @@
 
-## 👋🏽 Quem sou 
 
-Meu nome e João atualmente estou cursando a graduação em Análise e desenvolvimento de sistemas na [Mackenzie](https://www.mackenzie.br/) , formado Técnico em Informática pelo [Senac São Paulo](https://www.sp.senac.br/). Criador de vários repositórios com projetos legais e um pouco aleatórios, como um bom curioso. Interessado em desenvolver cada vez mais minhas competências na área de Dados.
+👨‍💻Bem-vindo ao meu perfil! Sou apaixonado por Mineração e Extração de Dados, com experiência em SQL, Python, Power BI e Machine Learning. Atuo na criação de soluções baseadas em dados para apoiar a tomada de decisão. Atualmente, curso Análise e Desenvolvimento de Sistemas na [Mackenzie](https://www.mackenzie.br/), e sou formado como Técnico em Informática pelo [Senac São Paulo](https://www.sp.senac.br/).
+
 
 ## 💻 O que você encontra no meu Github
 
