@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil! Sou apaixonado por Mineração e Extração de Dados, c
 Linguagens: Python (Pandas, NumPy, Scikit-learn), SQL, R
 Banco de Dados: SQL Server, MySQL, PostgreSQL
 Visualização de Dados: Power BI, Tableau, Matplotlib, Seaborn
-ETL & Processamento de Dados: Pandas, SQL, Apache Spark
+ETL & Processamento de Dados: Pandas, SQL, Apache Spark, VBA
 Machine Learning & Estatística: Modelagem preditiva, Regressão, Classificação
 
 ## 👥 Conecte-se comigo
