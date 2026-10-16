@@ -44,8 +44,7 @@
 
     <circle cx="670" cy="221" r="7" fill="#3fb950"/>
     <text x="692" y="226" font-size="14" fill="#f0f6fc">SUPPORT DECISIONS</text>
-  </g>
-</svg>
+
 
 ## Business Intelligence | SQL | Python | VBA
 Sou profissional de dados com experiência em Business Intelligence, análise de indicadores e automação de processos. Tenho interesse em transformar dados em insights que apoiem a tomada de decisão e contribuam para a melhoria dos resultados de negócio.
