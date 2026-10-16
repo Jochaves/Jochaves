@@ -1,6 +1,6 @@
 ## Business Intelligence | SQL | Python | VBA
 Sou profissional de dados com experiência em Business Intelligence, análise de indicadores e automação de processos. Tenho interesse em transformar dados em insights que apoiem a tomada de decisão e contribuam para a melhoria dos resultados de negócio.
-Atuo com Inteligência de Negócios na Editora Globo, trabalhando com dados de plataformas digitais e análise de desempenho de canais e conteúdos.
+Atuo com Inteligência de Negócios na Editora Globo.
 Sou formado em Análise e Desenvolvimento de Sistemas pelo Mackenzie, técnico em Informática pelo SENAC e estudante de Ciências Econômicas. Minha trajetória combina tecnologia, análise de dados e visão de negócio.
 
 
