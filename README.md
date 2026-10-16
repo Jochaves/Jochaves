@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="João Chaves — Data Analytics e Business Intelligence" width="100%">
+  <img src="https://raw.githubusercontent.com/Jochaves/Jochaves/main/banner.svg" alt="João Chaves — Data Analytics e Business Intelligence" width="100%">
 </p>
 
 ## Business Intelligence | SQL | Python | VBA
